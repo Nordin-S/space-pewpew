@@ -1,0 +1,5 @@
+C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/metodik_invaders2.dir
+C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/metodik_invaders2_autogen_timestamp_deps.dir
+C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/metodik_invaders2_autogen.dir

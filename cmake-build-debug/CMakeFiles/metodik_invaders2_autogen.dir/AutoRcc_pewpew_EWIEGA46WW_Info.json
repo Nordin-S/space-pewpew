@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/metodik_invaders2_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2",
+	"CMAKE_SOURCE_DIR" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2",
+	"INCLUDE_DIR" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/metodik_invaders2_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/resources/logo/128.png",
+		"C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/resources/logo/64.png",
+		"C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/resources/logo/16.png",
+		"C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/resources/logo/32.png"
+	],
+	"LOCK_FILE" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/metodik_invaders2_autogen.dir/AutoRcc_pewpew_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "pewpew" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_pewpew.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/cmake-build-debug/CMakeFiles/metodik_invaders2_autogen.dir/AutoRcc_pewpew_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/nordi/Documents/git/cs-journey/keep-learning/programming-languages/2022/c++/metodik_invaders2/pewpew.qrc",
+	"VERBOSITY" : 0
+}
